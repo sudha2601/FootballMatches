@@ -2,6 +2,10 @@
 
 A responsive React web application that displays upcoming football matches with team logos, match dates and times, and league information (including logos).
 
+# App Preview
+
+Image link:-https://drive.google.com/file/d/13iq0ImZA4YydNoQE7_tfihVRdnHfAkba/view?usp=sharing
+
 # API Used
 https://apiv2.allsportsapi.com/football/?met=Fixtures&APIkey=5086ccafa290f9f367d91271b8afa7f6181a026082f804de5f74572080dae626&from=2025-05-29&to=2025-06-07
 
